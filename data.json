@@ -2,37 +2,37 @@
   {
     "nome": "JavaScript",
     "descricao": " O JS é a linguagem da galera",
-    "ano": 1995,
+    "data_criacao": 1995,
     "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
   },
   {
     "nome": "Python",
     "descricao": " Python é a linguagem da ciência de dados e da IA",
-    "ano": 1991,
+    "data_criacao": 1991,
     "link": "https://docs.python.org/pt-br/3.14"
   },
   {
     "nome": "Java",
     "descricao": "Java é uma linguagem de programação orientada a objetos, popular para aplicações empresariais e desenvolvimento Android.",
-    "ano": 1995,
+    "data_criacao": 1995,
     "link": "https://docs.oracle.com/en/java/"
   },
   {
     "nome": "C#",
     "descricao": "C# (pronuncia-se 'C sharp') é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft, amplamente usada com o framework .NET.",
-    "ano": 2000,
+    "data_criacao": 2000,
     "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
   },
   {
     "nome": "TypeScript",
     "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem, melhorando a escalabilidade e a manutenção de grandes projetos.",
-    "ano": 2012,
+    "data_criacao": 2012,
     "link": "https://www.typescriptlang.org/docs/"
   },
   {
     "nome": "Go",
     "descricao": "Go (ou Golang) é uma linguagem de programação compilada e concorrente, criada pelo Google, focada em simplicidade, confiabilidade e eficiência.",
-    "ano": 2009,
+    "data_criacao": 2009,
     "link": "https://golang.org/doc/"
   },
   {
@@ -336,4 +336,5 @@
       "ferramenta"
     ]
   }
+
 ]
